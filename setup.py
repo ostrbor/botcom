@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='botcom',
-    version='0.0.1',
+    version='0.0.2',
     description='command bus',
     long_description=readme(),
     author='Boris Ostretsov',
